@@ -96,7 +96,7 @@ Mockup AI  | Designing the wireframe/mockup of the dashboard  |
 
 # Visualization
 
-![excel_to_powerbi_animated-diagram](assets/images/dashboard.png)
+
 
 
 # Recommendation
