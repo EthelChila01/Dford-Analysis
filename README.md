@@ -85,7 +85,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
    3. Bar Charts
    4. Filters
 
-![excel_to_powerbi_animated-diagram](assets/images/dashboard_mockup.png)
+
 
 ## Tools
 
