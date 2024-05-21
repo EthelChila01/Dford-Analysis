@@ -40,7 +40,8 @@ company to organize and analyse with the following tasks with Excel:
  
 # Data source
 
-The data required to perform the tasks has alraedy been provided by Linda Pizza,to see it check here
+The data required to perform the tasks has alraedy been provided by Linda Pizza 
+
 
 
 # Recommendation
