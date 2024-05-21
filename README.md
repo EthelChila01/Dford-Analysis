@@ -40,9 +40,10 @@ company to organize and analyse with the following tasks with Excel:
  
 # Data source
 
-The data required to perform the tasks has alraedy been provided by Linda Pizza 
+The data required to perform the tasks has alraedy been provided by Linda Pizza, [Find it here](https://github.com/EthelChila01/Dford-Analysis/assets/docs).
 
 
+assets/docs
 
 # Recommendation
 Based on our thorough analysis of Linda Pizza's sales trends and market positioning, we confidently recommend that Dford Company proceed with supplying pizza ingredients to Linda Pizza. Our analysis reveals compelling reasons to join forces with Linda Pizza, particularly considering their escalating customer demand and strategic approach to pricing.Specifically, our analysis indicates a noteworthy uptick in Linda Pizza's sales, substantiating the rationale behind their request for us to become their supplier. Furthermore, upon examining their product offerings, we discovered that out of the 32 types of pizza they offer, 17 incorporate cheese, 18 feature tomatoes, and two include bacon. This detailed insight underscores the significance of ensuring ample stock of these key ingredients to fulfill Linda Pizza's ongoing orders effectively.Furthermore, Linda Pizza's competitive pricing strategy has proven effective in attracting customers. Their prices align well with market expectations, contributing to consistent sales growth.
