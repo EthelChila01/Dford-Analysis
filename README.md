@@ -47,8 +47,8 @@ company to organize and analyse with the following tasks with Excel:
        * The ingredients used for each pizza type
        * The quantity of Pizzas sold
        * The prices each Pizza type and size
-         
-    * Where is the data coming from?
+
+     * Where is the data coming from?
     
 The data required to perform the tasks has alraedy been provided by Linda Pizza, [Find it here](https://github.com/EthelChila01/Dford-Analysis/tree/main/assets/docs).
 
