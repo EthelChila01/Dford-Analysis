@@ -40,7 +40,7 @@ company to organize and analyse with the following tasks with Excel:
  
 # Data source
 
-The data required to perform the tasks has alraedy been provided by Linda Pizza, [Find it here](https://github.com/EthelChila01/Dford-Analysis/tree/assets/docs).
+The data required to perform the tasks has alraedy been provided by Linda Pizza, [Find it here](https://github.com/EthelChila01/Dford-Analysis/tree/main/assets/docs).
 
 
 assets/docs
