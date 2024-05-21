@@ -94,6 +94,10 @@ Tool       | Purpose                                          |
 Excel      | Exploring the data,cleaning and analysing        | 
 Mockup AI  | Designing the wireframe/mockup of the dashboard  |
 
+# Development
+   * How many Pizza types contain cheese
+     ![excel_to_powerbi_animated-diagram](assets/images/the_dashboard.png)
+
 # Visualization
 
 ![excel_to_powerbi_animated-diagram](assets/images/the_dashboard.png)
