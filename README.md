@@ -103,7 +103,7 @@ Mockup AI  | Designing the wireframe/mockup of the dashboard        |
      
       To double check;
      
-     ![pizza_cheese](assets/pizza_with_cheese_confirm.png)
+     ![pizza_cheese](assets/images/pizza_with_cheese_confirm.png)
      
    * How many Pizza types contain tomatoes?
     
