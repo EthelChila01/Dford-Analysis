@@ -1,5 +1,11 @@
 # Data Portfolio: Excel Project
 
+![excel_to_powerbi_animated-diagram](assets/images/excel-icons-animation.gif)
+
+# Table of contents
+# Recommendation
+
+
 
 
 Linda Pizza Ingredient Supplier Analysis and Recommendation
