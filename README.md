@@ -13,8 +13,10 @@ This project contains an analysis report and recommendation for Dford Company re
 - [Data source](#data_source)
 - [Stages](#stages)
   - [Design](#design)
-  - [Dashboard components required](#dashboard_components_required)
-  - [Dashboard mockup](#dashboard_mockup)
+   - [Dashboard components required](#dashboard_components_required)
+   - [Dashboard mockup](#dashboard_mockup)
+  - [Tools](#tools)
+- [Analysis](#analysis)
 - [Recommendation](#recommendation)
 
 
@@ -89,14 +91,36 @@ Some of the data visuals that may be appropriate in answering our questions incl
 
 ## Tools
 
-Tool       | Purpose                                          |
----------- | -------------------------------------------------|
-Excel      | Exploring the data,cleaning and analysing        | 
-Mockup AI  | Designing the wireframe/mockup of the dashboard  |
+Tool       | Purpose                                                |
+---------- | -------------------------------------------------------|
+Excel      | Exploring the data,cleaning,analysing and visualization| 
+Mockup AI  | Designing the wireframe/mockup of the dashboard        |
 
-# Development
-   * How many Pizza types contain cheese
-     ![excel_to_powerbi_animated-diagram](assets/images/the_dashboard.png)
+
+# Analysis
+   * How many Pizza types contain cheese?
+     ![pizza_cheese](assets/images/pizza_with_cheese.png)
+     
+      To double check;
+     
+     ![pizza_cheese](assets/pizza_with_cheese_confirm.png)
+     
+   * How many Pizza types contain tomatoes?
+    
+     ![pizza_tomatoes](assets/images/pizza_with_tomatoes.png)
+
+      To double check; 
+
+      ![pizza_tomatoes](assets/images/pizza_with_tomatoes_confirmed.png)
+     
+   *  How many Pizza types contain bacon?
+
+      ![pizza_bacon](assets/images/pizza_with_bacon.png)
+
+       To double check;
+
+      ![pizza_bacon](assets/images/pizza_with_bacon_confirm.png)
+
 
 # Visualization
 
