@@ -121,6 +121,14 @@ Mockup AI  | Designing the wireframe/mockup of the dashboard        |
 
       ![pizza_bacon](assets/images/pizza_with_bacon_confirm.png)
 
+   *  Top 10 Pizzas orderded
+
+      ![top_ten_pizzas_ordered](assets/images/top_ten_pizzas.png)
+
+   *  The average price of each pizza size
+
+      
+
 
 # Visualization
 
