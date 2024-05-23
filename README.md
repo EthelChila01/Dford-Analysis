@@ -127,6 +127,8 @@ Mockup AI  | Designing the wireframe/mockup of the dashboard        |
 
    *  The average price of each pizza size
 
+      ![average_price_of_each_pizza-size](assets/images/average_size_of_each_pizza_size.png)
+
       
 
 
