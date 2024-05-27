@@ -1,4 +1,4 @@
-# Data Portfolio: Linda Pizza Ingredient Supplier Analysis and Recommendation
+# Data Portfolio: Linda Pizza Ingredient Supplier Analysis 
 
 ## Complete Excel Project 
 
